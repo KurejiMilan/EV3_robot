@@ -1,1 +1,3 @@
-T_S = 10e-3
+clc;
+clear;
+T_S = 10e-3;
